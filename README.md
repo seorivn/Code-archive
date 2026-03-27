@@ -1,2 +1,47 @@
-# Code-archive
-This is an auto push repository for Baekjoon Online Judge created with [BaekjoonHub](https://github.com/BaekjoonHub/BaekjoonHub).
+# Code Archive 📚
+
+코딩 테스트 대비 및 알고리즘 문제 풀이를 기록하는 저장소입니다.  
+백준과 프로그래머스 문제를 중심으로 풀이를 정리합니다.
+
+---
+
+## Platforms 🧩
+
+* Baekjoon 🥇
+* Programmers 💻
+
+---
+
+## Structure 🗂️
+```
+백준/
+  단계/
+    문제번호. 문제이름/
+
+프로그래머스/
+  레벨/
+    문제번호. 문제이름/
+```
+---
+
+## Description ✏️
+
+* 각 문제는 플랫폼 및 난이도 기준으로 분류됩니다  
+* 문제 풀이 코드는 자동으로 업로드됩니다  
+* 반복 학습 및 복습을 위한 기록용 저장소입니다  
+
+---
+
+## Goal 🎯
+
+* 알고리즘 문제 해결 능력 향상  
+* 다양한 유형 학습  
+* 코딩 테스트 대비  
+
+---
+
+## Notes ⚙️
+
+* BaekjoonHub를 사용하여 자동 커밋됩니다  
+* 커밋 메시지 및 일부 구조는 자동 생성됩니다  
+
